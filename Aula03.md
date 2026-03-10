@@ -1,4 +1,4 @@
-# Previsibilidade de Palavras em Inteligência Artificial
+# Atividade Prática: Desbloqueando raciocinio
 
 ## Analise de tokens
 ![atv1](https://github.com/user-attachments/assets/89350876-852c-45d7-b22f-c02e930434f4)
